@@ -1,1 +1,1 @@
-Hi This is mr in feature
+Hi This is merge conflict in feature
